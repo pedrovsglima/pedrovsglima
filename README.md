@@ -1,16 +1,21 @@
-### Hi there 👋
+## hello world! :slightly_smiling_face:
 
-<!--
-**peuvitor/peuvitor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### about me
 
-Here are some ideas to get you started:
+- currently looking for data scientist jobs
+- MSc student in biomedical engineering at [UFPE](https://www.ufpe.br/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### I'm focusing on building a data science portfolio
+
+- _main subjects:_ education and healthcare
+- _programming language:_ python
+
+<!---
+### select projects
+--->
+
+### find me elsewhere 
+
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/pedro-vitorlima/)
+
+[Lattes](http://lattes.cnpq.br/5694834370741298)
