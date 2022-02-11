@@ -13,8 +13,12 @@
 
 ### some initial projects (for now, written in portuguese)
 
-- [Python and MySQL Database](https://peuvitor.github.io/python-mysql/)
+- [python and mysql database](https://peuvitor.github.io/python-mysql/)
+- [regression analysis](https://peuvitor.github.io/regression-diabetes/)
 
+### case studies
+
+- in progress
 
 
 ### find me elsewhere 
