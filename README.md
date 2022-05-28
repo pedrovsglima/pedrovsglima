@@ -23,11 +23,11 @@
 
 - [predicting diabetes progression](https://peuvitor.github.io/regression-diabetes/)
 
-  `data science` `python` `regression`
+  `data science` `python` `regression` `scikit-learn` `shap values`
 
 - [analysis of students performance in exams](https://peuvitor.github.io/python-mysql/)
 
-  `data analysis` `python` `mysql`
+  `data analysis` `mysql` `python` `pandas`
 
   ### miscellaneous
 
