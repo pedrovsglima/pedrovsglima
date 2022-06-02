@@ -20,6 +20,10 @@
 - [designing and deploying a database in a docker container](https://github.com/peuvitor/modelagem-banco-de-dados-e-docker)
 
   `data engineering` `mysql workbench` `docker compose` `data generator`
+  
+- [data extraction and automatic upload to cloud](https://github.com/peuvitor/aws-s3-database-dump)
+
+  `data engineering` `ETL pipeline` `AWS S3` `boto3` `docker compose` `cron job`
 
 - [predicting diabetes progression](https://peuvitor.github.io/regression-diabetes/)
 
