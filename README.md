@@ -9,36 +9,44 @@
 
 ## some projects
 
+### data engineering
+
 - [shell scripts](https://github.com/peuvitor/intro-shell-script)
   
-  `data engineering` `loops` `conditional statements` `cron job` `web scraping` 
+  `loops` `conditional statements` `cron job` `web scraping` 
 
 - [how to set up and populate a database in a docker container](https://github.com/peuvitor/docker-banco-de-dados-e-gerador-de-massa)
 
-  `data engineering` `docker compose` `mariadb`
+  `docker compose` `mariadb`
 
 - [designing and deploying a database in a docker container](https://github.com/peuvitor/modelagem-banco-de-dados-e-docker)
 
-  `data engineering` `mysql workbench` `docker compose` `data generator`
+  `data modeling` `mysql workbench` `docker compose` `data generator`
   
 - [data extraction and automatic upload to cloud](https://github.com/peuvitor/aws-s3-database-dump)
 
-  `data engineering` `ETL pipeline` `AWS S3` `boto3` `docker compose` `cron job`
+  `ETL pipeline` `AWS S3` `boto3` `docker compose` `cron job`
+  
+### data science
+
+- [vehicle insurance claim fraud detection](https://peuvitor.github.io/insurance-fraud-detection/)
+
+  `python` `classification` `ADASYN` `data transformation` `cross-validation` `grid search` `feature importance`
 
 - [predicting diabetes progression](https://peuvitor.github.io/regression-diabetes/)
 
-  `data science` `python` `regression` `scikit-learn` `shap values`
+  `python` `regression` `scikit-learn` `shap values`
 
 - [analysis of students performance in exams](https://peuvitor.github.io/python-mysql/)
 
   `data analysis` `mysql` `python` `pandas`
 
-  ### miscellaneous
+### miscellaneous
 
-  - [MATLAB application for projects with repetitive controllers](https://github.com/peuvitor/repetitive-controller-designer)
+- [MATLAB application for projects with repetitive controllers](https://github.com/peuvitor/repetitive-controller-designer)
   
-    `matlab` `GUIDE` `controller design` 
+  `matlab` `GUIDE` `controller design` 
     
-  - [face recognition access control system](https://github.com/peuvitor/Facial-Recognition)
+- [face recognition access control system](https://github.com/peuvitor/Facial-Recognition)
 
-    `python` `opencv` `tkinter`
+  `python` `opencv` `tkinter`
