@@ -11,7 +11,7 @@
 
 ### data engineering
 
-- [data extraction and automatic upload to cloud](https://github.com/peuvitor/aws-s3-database-dump)
+- [data extraction and automatic upload to cloud](https://peuvitor.github.io/aws-s3-database-dump/)
 
   `ETL pipeline` `AWS S3` `boto3` `docker compose` `cron job`
   
