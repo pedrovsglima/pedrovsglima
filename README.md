@@ -15,11 +15,11 @@
 
   `ETL pipeline` `AWS S3` `boto3` `docker compose` `cron job`
   
-- [designing and deploying a database in a docker container](https://github.com/peuvitor/modelagem-banco-de-dados-e-docker)
+- [designing and deploying a database in a docker container](https://peuvitor.github.io/modelagem-banco-de-dados-e-docker/)
 
   `data modeling` `mysql workbench` `docker compose` `data generator`
 
-- [how to set up and populate a database in a docker container](https://github.com/peuvitor/docker-banco-de-dados-e-gerador-de-massa)
+- [how to set up and populate a database in a docker container](https://peuvitor.github.io/docker-banco-de-dados-e-gerador-de-massa/)
 
   `docker compose` `mariadb`
 
