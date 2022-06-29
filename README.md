@@ -17,11 +17,11 @@
   
 - [designing and deploying a database in a docker container](https://peuvitor.github.io/modelagem-banco-de-dados-e-docker/)
 
-  `data modeling` `mysql workbench` `docker compose` `data generator`
+  `python` `data modeling` `mysql workbench` `docker compose` `data generator`
 
 - [how to set up and populate a database in a docker container](https://peuvitor.github.io/docker-banco-de-dados-e-gerador-de-massa/)
 
-  `docker compose` `mariadb`
+  `shell` `docker compose` `mariadb`
 
 - [shell scripts](https://github.com/peuvitor/intro-shell-script)
   
@@ -39,7 +39,7 @@
 
 - [analysis of students performance in exams](https://peuvitor.github.io/python-mysql/)
 
-  `data analysis` `mysql` `python` `pandas`
+  `data analysis` `python` `mysql` `pandas`
 
 ### miscellaneous
 
