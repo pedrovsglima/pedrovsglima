@@ -15,6 +15,10 @@
 
   `ETL pipeline` `AWS S3` `boto3` `docker compose` `cron job`
   
+- [scraping jobs on LinkedIn and uploading to google sheets](https://peuvitor.github.io/linkedin-jobs-scraper/)
+
+  `ETL pipeline` `GCP` `web scraping` `docker compose` `cron job` `data consolidation`
+  
 - [designing and deploying a database in a docker container](https://peuvitor.github.io/modelagem-banco-de-dados-e-docker/)
 
   `python` `data modeling` `mysql workbench` `docker compose` `data generator`
