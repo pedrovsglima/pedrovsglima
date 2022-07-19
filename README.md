@@ -2,7 +2,7 @@
 
 ## about me
 
-- currently looking for data scientist and data engineer jobs
+- junior data engineer
 - MSc student in biomedical engineering at [UFPE](https://www.ufpe.br/)
 - researching: machine learning and deep learning methods for skin lesion classification
 - [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/pedro-vitorlima/)
