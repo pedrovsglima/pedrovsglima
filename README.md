@@ -1,3 +1,3 @@
-## hello world! :slightly_smiling_face:
+# hello world! :slightly_smiling_face:
 
-[check out my portfolio](https://peuvitor.github.io/portfolio/)
+## [check out my portfolio](https://peuvitor.github.io/portfolio/)
